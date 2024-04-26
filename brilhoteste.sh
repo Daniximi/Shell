@@ -8,7 +8,6 @@
 # Criado  por Danilo Moreira
 # 25/04/2024
 #-------------------------------------------------------
-#!/bin/bash
 
 while true; do
     echo "Qual o valor do brilho?"
